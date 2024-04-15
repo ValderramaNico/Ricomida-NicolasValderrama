@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar */
+
+nav {
+  background-color: #373a3c;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+}
+
+/* body */
+
+#img-pizza {
+  margin-right: 20px;
+}
+
+.texto-boton {
+  background-color: #dc3545;
+  color: #ffffff;
+}
+
+/* footer */
+
+.footer-content-box {
+  width: 100%;
+  height: 80%;
+  padding: 20px;
+}
+
+footer {
+  background-color: #373a3c;
+}
+
+.link-footer {
+  color: #ffffff;
+}
